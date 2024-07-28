@@ -10,7 +10,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/maksim-iarmuratii-106517239">
+  <a href="www.linkedin.com/in/maksim-iarmuratii">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!---
