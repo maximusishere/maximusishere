@@ -5,6 +5,9 @@
 - 📫 How to reach me glucy@list.ru
 - 😄 Pronouns: handsome
 - ⚡ Fun fact: I am 37
+- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!---
 maximusishere/maximusishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
